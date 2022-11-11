@@ -8,5 +8,5 @@ const writeFile = async (path, content="") => fs
 
 module.exports = {
   readFile,
-  writeFile,
+  writeFile
 }
